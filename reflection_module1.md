@@ -1,4 +1,4 @@
-# 🌱 What I Learned
+# 👍 What I Learned
 
 1. ✅ I learned how to use **Xcode** and connect it to the **Keeling remote host**.
 2. ✅ I figured out how to link **Xcode with GitHub**, and how to **commit** and **push** file changes.
