@@ -15,4 +15,4 @@ Specifically, I have the following questions:
 
 - Is this repository a **"copy"** or fork of the GitHub Classroom repository we used in class?
 - Is this my **personal workspace**, meaning I can't view other students' work here?
-- When I create a **pull request**, does that mean my changes are intended to be merged into the **shared class repository**?
+- When I create a **pull request**, does that mean my changes are intended to be merged into the **class repository**?
